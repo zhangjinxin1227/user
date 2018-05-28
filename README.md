@@ -19,7 +19,6 @@
 # 二、 用户操作流程
 
 ## 2.1注册
-![myone](https://user-images.githubusercontent.com/37893582/40597750-eb8118e0-6275-11e8-8f24-355ac15dded6.png)
 
 输入用户名，密码，选择密保问题，然后输入密保答案，录入验证码，注册成功。
    
