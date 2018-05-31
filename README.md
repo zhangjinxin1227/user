@@ -15,6 +15,7 @@
   
 # 二、用户界面
 ## 2.1界面浏览
+![one](https://user-images.githubusercontent.com/37893582/40784949-b0d1872e-6519-11e8-9800-54f03377aa96.jpg)
 
 
 ## 2.2界面
