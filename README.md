@@ -56,7 +56,8 @@
 ## 5.1资料管理总览
 ### 点击【资源】
 【我的资源】总览自己的所有资料。
-![myenity](https://user-images.githubusercontent.com/37893582/40599030-bb7da912-627d-11e8-8249-55e623a54574.png)
+![six](https://user-images.githubusercontent.com/37893582/40839727-472a8ed4-65d6-11e8-85dc-47bc4de37170.png)
+
 
 支持所有格式的文件在线预览 （如图片）
 ![mynine](https://user-images.githubusercontent.com/37893582/40599079-05834d0a-627e-11e8-986d-0e52b96a253c.png)
