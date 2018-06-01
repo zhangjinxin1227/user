@@ -51,9 +51,7 @@
 ## 3.8生成图片/文件
 将建好的知识图谱进行图片化/文件化处理，即可生成文件或图片，他们将会保存在用户电脑里。
 ![mysix](https://user-images.githubusercontent.com/37893582/40598776-4fe2f5aa-627c-11e8-8d2b-27cd482e88d0.png)
-## 4.9知识图谱示例
 
-![mysenven](https://user-images.githubusercontent.com/37893582/40598826-99f57050-627c-11e8-91ca-ab0e7c5236f7.png)
 # 五、资料管理模块
 ## 5.1资料管理总览
 ### 点击【资源】
